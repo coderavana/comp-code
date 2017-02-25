@@ -1,2 +1,4 @@
 # comp-code
-Codes for questions in competitive coding
+Competitive Coding Question
+
+I'll try to update here with each and any code I write for questions online.
