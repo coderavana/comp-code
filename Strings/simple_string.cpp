@@ -13,6 +13,5 @@ int main() {
     fir[0]=sec[0];
     sec[0]=temp;
     cout<<fir<<" "<<sec;
-
     return 0;
 }
